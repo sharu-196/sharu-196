@@ -1,58 +1,75 @@
+
 # 👋 Hi, I'm Sharu Latha
 
 🎓 Computer Science Graduate  
 💻 Python Developer | AI & ML Enthusiast  
-🚀 Interested in building practical, real-world applications
+🚀 Interested in Building Practical, Real-World Applications
 
-I'm interested in Python development, Machine Learning, and Web Development. I enjoy learning new technologies, solving problems, and building projects to improve my technical skills.
+I'm interested in Python development, Machine Learning, and Web Development. I enjoy learning new technologies, solving problems, and building practical projects to improve my technical skills.
 
 ## 🧠 Tech Stack
 
-- **Languages:** Python, HTML, CSS, JavaScript
-- **AI & ML:** Machine Learning Fundamentals, Pandas, NumPy, Scikit-learn
-- **Web Development:** HTML, CSS, JavaScript, Bootstrap
+- **Programming Language:** Python
+- **Web Technologies:** HTML, CSS, JavaScript, Bootstrap
+- **AI & Machine Learning:** Machine Learning Fundamentals, Pandas, NumPy, Scikit-learn
+- **Database:** SQLite
+- **Framework:** Flask
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook
-- **Currently Learning:** Python Automation, Data Analysis, Machine Learning
+- **Currently Learning:** Python Automation, Data Analysis, and Machine Learning
 
-**📂 Projects**
+## 📂 Projects
 
 ### 📉 Customer Churn Prediction
 
-A machine learning project to predict customer churn and identify customers who are likely to leave a service.
-Built using Python, Pandas, NumPy, and Scikit-learn.
-Includes data preprocessing, exploratory data analysis (EDA), model training, and performance evaluation.
+A Machine Learning project focused on predicting customers who may stop using a service.
+
+- Data preprocessing and Exploratory Data Analysis (EDA)
+- Model training using Python and Scikit-learn
+- Model performance evaluation
+- Data analysis using Pandas and NumPy
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn
 
 ### 🎓 Student Management System
 
-A web-based application to manage student records and academic information.
-Built using Python, Flask, SQLite, HTML, CSS, and Bootstrap.
-Includes student record management, database integration, and CRUD operations.
+A web-based application designed to manage student records and academic information.
 
-### 📊 Customer Churn Prediction — Upcoming
+- Student record management
+- Create, Read, Update, and Delete (CRUD) operations
+- Database integration
+- User-friendly web interface
 
-An upcoming Machine Learning project to predict whether customers may stop using a service.
+**Technologies:** Python, Flask, SQLite, HTML, CSS, Bootstrap
 
-- Planning to use Python, Pandas, and Scikit-learn.
-- Explore customer data and identify churn patterns.
-- Build and evaluate a Machine Learning model.
+> Note: Add these projects to your public portfolio after uploading the corresponding source code to GitHub.
 
 ## 🌐 Web Development
 
 - Practicing responsive web page development using HTML, CSS, and JavaScript.
-- Learning to create user-friendly website layouts.
+- Learning to create clean and user-friendly website layouts.
 - Improving frontend development skills through hands-on practice.
 
 ## 🎯 Current Goals
 
 - Build practical Python projects.
-- Improve my AI and Machine Learning knowledge.
+- Strengthen my AI and Machine Learning fundamentals.
 - Develop a strong GitHub portfolio.
 - Learn Python automation and data analysis.
 - Explore Python freelancing opportunities.
 
-## 🔗 Connect with me
+## 📈 Areas of Interest
 
-🔗 [LinkedIn](https://www.linkedin.com/in/sharu-latha19/)  
-📧 [vsharulatha190606@gmail.com](mailto:vsharulatha190606@gmail.com)
+- Python Development
+- Machine Learning
+- Data Analysis
+- Web Development
+- Python Automation
 
+## 🤝 Connect with Me
 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sharu-latha19/)
+- 📧 [Email](mailto:vsharulatha190606@gmail.com)
+
+---
+
+⭐ *Always learning, building, and improving.*
