@@ -48,7 +48,7 @@ An upcoming Machine Learning project to predict whether customers may stop using
 
 ## 🔗 Connect with me
 
+🔗 [LinkedIn](https://www.linkedin.com/in/sharu-latha19/)  
+📧 [vsharulatha190606@gmail.com](mailto:vsharulatha190606@gmail.com)
 
-🔗 [linkedin.com/in/sharu-latha19/]
-📧 [vsharulatha190606@gmail.com]
 
