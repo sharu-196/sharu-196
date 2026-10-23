@@ -14,15 +14,19 @@ I'm interested in Python development, Machine Learning, and Web Development. I e
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook
 - **Currently Learning:** Python Automation, Data Analysis, Machine Learning
 
-## 📂 Projects
+**📂 Projects**
+
+### 📉 Customer Churn Prediction
+
+A machine learning project to predict customer churn and identify customers who are likely to leave a service.
+Built using Python, Pandas, NumPy, and Scikit-learn.
+Includes data preprocessing, exploratory data analysis (EDA), model training, and performance evaluation.
 
 ### 🎓 Student Management System
 
-A project developed to manage student information and records.
-
-- Practiced programming concepts through project development.
-- Worked on organizing and managing student details.
-- Improved Python programming and problem-solving skills.
+A web-based application to manage student records and academic information.
+Built using Python, Flask, SQLite, HTML, CSS, and Bootstrap.
+Includes student record management, database integration, and CRUD operations.
 
 ### 📊 Customer Churn Prediction — Upcoming
 
