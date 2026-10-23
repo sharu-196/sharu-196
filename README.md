@@ -41,8 +41,6 @@ A web-based application designed to manage student records and academic informat
 
 **Technologies:** Python, Flask, SQLite, HTML, CSS, Bootstrap
 
-> Note: Add these projects to your public portfolio after uploading the corresponding source code to GitHub.
-
 ## 🌐 Web Development
 
 - Practicing responsive web page development using HTML, CSS, and JavaScript.
